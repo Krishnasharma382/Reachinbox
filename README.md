@@ -15,7 +15,7 @@ ioredis
 
 Setup
 Clone the repository to your local machine:
-git clone https://github.com/Krishnasharma382/Reachinbox.git
+git clone https://github.com/Krishnasharma382/Reachinbox/tree/main
 Navigate to the root directory of the project directory :
 cd server
 Run npm install to install all the dependencies
